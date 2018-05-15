@@ -21,6 +21,6 @@
         "symfony/framework-bundle": "^3.1|^4",
         "symfony/twig-bundle": "^3.1|^4",
         "symfony/templating": "^3.1|^4",
-        "twig/twig": "^1.16|^2.0",
+        "twig/twig": "^1.16|^2.0"
     }
 }
